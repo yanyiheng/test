@@ -37,8 +37,8 @@ a[data-v-6ed91afc]:active{color:#096dd9}
 [data-v-6ed91afc]::-moz-selection{background:#1890ff}
 [data-v-6ed91afc]::selection{background:#1890ff}
 .ant-click-animating-node[data-v-6ed91afc],[ant-click-animating-without-extra-node][data-v-6ed91afc]:after{border:0 solid #1890ff}
-.setting-drawer-index-content .setting-drawer-index-blockChecbox .setting-drawer-index-item .setting-drawer-index-selectIcon[data-v-499dc568]{color:#1890ff}
-.setting-drawer-index-handle[data-v-499dc568]{background:#1890ff}
+.setting-drawer-index-content .setting-drawer-index-blockChecbox .setting-drawer-index-item .setting-drawer-index-selectIcon[data-v-52a8d85a]{color:#1890ff}
+.setting-drawer-index-handle[data-v-52a8d85a]{background:#1890ff}
 a{color:#1890ff}
 a:hover{color:#40a9ff}
 a:active{color:#096dd9}
@@ -46,8 +46,11 @@ a:active{color:#096dd9}
 ::selection{background:#1890ff}
 .ant-click-animating-node,[ant-click-animating-without-extra-node]:after{border:0 solid #1890ff}
 .layout.ant-layout .header .user-wrapper .action .avatar,.layout.ant-layout .top-nav-header-index .user-wrapper .action .avatar{color:#1890ff}
-.view-line-list .ant-card-actions li a[data-v-de9728dc]:hover{color:#1890ff}
-.view-line-list .card-border[data-v-de9728dc]{border:1px solid #1890ff}
+.view-create-line .collapse-info .lineNo[data-v-afdf57b2]{background:#1890ff}
+.view-create-line .collapse-info .modify[data-v-afdf57b2]{color:#1890ff}
+.view-line-list .ant-card-actions li a[data-v-35cf50a5]:hover{color:#1890ff}
+.view-line-list .card-border[data-v-35cf50a5]{border:1px solid #1890ff}
+.view-line-list .status .main-color[data-v-35cf50a5]{color:#1890ff}
 .ant-input:focus,.ant-input:hover{border-color:#40a9ff}
 .ant-input-group-addon .ant-select-focused .ant-select-selection,.ant-input-group-addon .ant-select-open .ant-select-selection{color:#1890ff}
 .ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled){border-color:#40a9ff}
@@ -208,4 +211,4 @@ a:active{color:#096dd9}
 .ant-input-number:focus{border-color:#40a9ff}
 .ant-input-number-handler:hover .ant-input-number-handler-down-inner,.ant-input-number-handler:hover .ant-input-number-handler-up-inner{color:#40a9ff}
 .ant-input-number-focused,.ant-input-number:hover{border-color:#40a9ff}
-.user-layout-login .user-login-other .item-icon[data-v-1720927a]:hover{color:#1890ff}
+.user-layout-login .user-login-other .item-icon[data-v-44f1302d]:hover{color:#1890ff}
